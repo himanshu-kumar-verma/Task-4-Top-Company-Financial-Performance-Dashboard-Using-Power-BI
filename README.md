@@ -93,6 +93,9 @@ It enables quick comparison of company performance, supports regional analysis, 
 
 ## 👤 Author
 **Himanshu Kumar Verma**  
+
 📧 Email: himanshukumarverma719@gmail.com  
+
 🔗 LinkedIn: https://www.linkedin.com/in/himanshu-kumar-verma2003
+
 💻 GitHub: https://github.com/himanshu-kumar-verma
